@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="login-page">
-      <img src="/logo.dn.png" alt="Logo" className="logo" />
+      <img src="./logo.dn.png" alt="Logo" className="logo" />
       <div className="login-box">
         <h2 className="login-title">Login</h2>
 
